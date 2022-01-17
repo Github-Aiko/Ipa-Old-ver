@@ -2,54 +2,55 @@
 - Không cần phải Jailbreak máy
 ## Chuẩn bị
 #### 1. iTunes phiên bản 12.6.5.3 
->[**Download**](https://dl.tuandb.name.vn/Applications/iTunes)
+>[**Download**](https://github.com/herotbty/Ipa-Old-ver/releases/tag/1.0.2)
+Tải đúng phiên bản theo cấu hình máy 
 
 #### 2. Tool
- >[**Download**](https://dl.tuandb.name.vn/Applications/OldIPATool)
+ >[**Download**](https://github.com/herotbty/Ipa-Old-ver/releases/download/1.0.1/DownloadOldIPATool_EN.zip)
 
 ## Thực hiện
 #### 1. Gỡ phiên bản iTunes bạn đang cài (nếu có)
 - Gỡ xong thì vào đường dẫn sau **``%SystemDrive%\Users\%UserName%\Music\``** - xoá thư mục **iTunes**
 
-	![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/01.png)
+	![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/01.png)
 
 #### 2. Cài đặt iTunes phiên bản 12.6.5.3
 
 #### 3. Mở iTune và vào mục Ứng dụng (Applications)
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/03.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/03.png)
  
  - Nếu không có thì chọn vào mục Sửa Menu...
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/03-2.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/03-2.png)
 
 - Tích vào mục Ứng dụng
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/03-3.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/03-3.png)
 
 #### 4. Mở tool (Lưu ý: Tắt phần mềm diệt Virus trước khi giải nén Tool)
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04.png)
 
 - Hiện thông báo như ảnh thì chọn Yes
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04-2.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04-2.png)
 
 - Chọn vùng **Appstore** giống với vùng của **tài khoản Appstore** rồi nhập tên app cần tải vào mục **AppName** > chọn Search
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04-3.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04-3.png)
 
 - Chuột phải vào App > chọn **`old version`**
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04-4.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04-4.png)
 
 - Chuột phải vào phiên bản cũ cần tải và chọn **`Selected`**
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04-5.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04-5.png)
 
 - Ấn **`Run`** để bắt đầu 
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04-6.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/04-6.png)
 
 > Đến đây là đã có thể tải được phiên cũ rồi
 
@@ -58,16 +59,16 @@
 
 ##### App nào bạn chưa từng tải  thì cần phải **tắt Tool** và tiến hành tải (**Get**)
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/05.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/05.png)
 
 - Ấn **Get** xong nó sẽ tải
 	- Nhưng ***không cần***  đợi nó tải xong -> chọn app và ấn 2 lần phím **`Del`** để xoá )
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/05-2.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/05-2.png)
 
 ##### Bật tool lại (Tool đang hiện chữ Running ...) và Ấn Download
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/05-3.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/05-3.png)
 
 - Khi ấn tải sẽ có âm thanh (tinh tinh) là tool hoạt động 
 
@@ -78,7 +79,7 @@
 
 - Còn muốn tải nhiều ver của cùng một app thì khi tải xong cần phải vào phần thư viện, xoá phiên bản vừa tải về rồi tiếp tục tải bản khác
 
-![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/05-4.png)
+![](https://raw.githubusercontent.com/herotbty/Ipa-Old-ver/main/img/05-4.png)
 
 #### 6. Cài file IPA vừa tải về
 - Chỉ cài được file IPA đó thông qua **3uTools**, **iMazing** hoặc **link cài trực tiếp** như [https://i.codevn.net/](https://i.codevn.net/) hay bất kỳ web nào khác có hỗ trợ, hoặc tự tạo file Plist Install
